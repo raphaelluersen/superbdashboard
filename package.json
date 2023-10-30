@@ -1,0 +1,7 @@
+{
+  "name": "lightence-ant-design-react-template-main",
+  "packageManager": "yarn@3.1.1",
+  "dependencies": {
+    "node": "16"
+  }
+}
